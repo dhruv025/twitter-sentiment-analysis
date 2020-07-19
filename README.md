@@ -1,8 +1,8 @@
 # twitter-sentiment-analysis
 
-In this project, I have created a simple Twitter Sentiment Analysis supervised learning model using python and NLP libraries.
+## In this project,I have created a simple Twitter Sentiment Analysis supervised learning model using python and NLP libraries.
 
-## Major Steps followed during the project -
+## Major Steps followed during the project:
 
 ### 1.Data Gathering: 
 
