@@ -2,13 +2,13 @@
 
 In this project, I have created a simple Twitter Sentiment Analysis supervised learning model using python and NLP libraries.
 
-Major Steps followed during the project -
+## Major Steps followed during the project -
 
-## 1.Data Gathering – 
+### 1.Data Gathering: 
 
 Dataset has been downloaded from kaggle. The dataset consist of 31962 rows and 3 columns. In this dataset, the label column has two values 0 and 1 in which 0 indicates that particular sentiment is positive and 1 indicate that particular sentiment is negative.
 
-### 2.Data PreProcessing – 
+### 2.Data PreProcessing:
 
 In this, first of all I have checked for the missing values in the dataset if any. In this, dataset there are no missing values.
 Also, done exploratory data analysis to analyze the data with the help of seaborn library which is used for data visualization.
@@ -17,7 +17,7 @@ Now, the most important part is to convert the given sentences into numerical va
 
 Now, our dataset is ready for applying to any machine learning algorithm.
 
-#### 3.Model Training – 
+### 3.Model Training:
 
 In this first of all, I have divided the dataset into train and test using the train_test_split method of sklearn library.
 
